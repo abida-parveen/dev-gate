@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60vh;
+}
+.button-block {
+  height: 50px;
+  width: 100%;
+}
+.form-background {
+  justify-content: center;
+  padding: 50px;
+  width: calc(50%);
+}
